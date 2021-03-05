@@ -1,4 +1,4 @@
-# Papper_robot_conversation
+# Pepper_robot_conversation
 
 ## Requirement 
 1. python2
